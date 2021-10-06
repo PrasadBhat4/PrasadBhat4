@@ -1,7 +1,21 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"/></h2>
 
 
 I am a software developer currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=www.antstack.io'/>[Antstack Technologies](https://antstack.io). I like learning and experimenting with new technologies as they come. I try to build things that will save me from manual work. I am an open-source enthusiast and a dark mode everything person. I occasionally write on my blog about new technologies, coding, how-tos, travel etc.
+
+### Find me here:
+<p>
+  <a href="mailto:hi@raalzz.com?subject=[GitHub]%20Contact&body=Hello,"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://twitter.com/raalzz"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/raalzz"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://polywork.com/raalzz"><img src="https://img.shields.io/badge/polywork-543DE0.svg?style=for-the-badge&logo=polywork&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/raalzz"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+### 🗒 Blogs I've written
+- [Automating Code checks and Tests with GIT Hooks](https://www.antstack.io/blog/adding-git-hooks-to-your-project/)
+- [Hacks I use to keep Myself up-to-date in Technology](https://raalzz.com/hacks-i-use-to-keep-myself-up-to-date-in-technolog/)
+- [My first Hackathon Experience](https://raalzz.com/my-first-hackathon-experience/)
 
 ## 👨‍💻 Currently Building stuff with 
 
@@ -19,7 +33,11 @@ I am a software developer currently working at <img height="16" width="16" src='
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white" />
+    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+    <img alt="Testing Library" src="https://img.shields.io/badge/-Testing Library-E33332?style=flat-square&logo=Testing Library&logoColor=white" />
 </p>
 
 
