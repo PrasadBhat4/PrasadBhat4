@@ -1,11 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"/></h2>
+### Hi folks <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"/></h2>
 
 
-I am a software developer currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=www.antstack.io'/>[Antstack Technologies](https://antstack.io). I like learning and experimenting with new technologies as they come. I try to build things that will save me from manual work. I am an open-source enthusiast and a dark mode everything person. I occasionally write on my blog about new technologies, coding, how-tos, travel etc.
 
-<!-- <p align="center">
-  <a href="https://github.com/PrasadBhat4"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20AWS%20developer;AWS%20Certified%20Cloud%20Practitioner;3%2B%20years%20of%20coding%20experience;></a>
-</p> -->
+I am a javascript full stack developer and a cloud technology enthusiast currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=www.antstack.io'/>[Antstack Technologies](https://antstack.io). I like to learn the cutting edge technologies which help me reduce my work of more coding. 
+
 <p align="center">
   <a href="https://github.com/PrasadBhat4"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20AWS%20developer;AWS%20certified%20Cloud%20Practitioner;3%2B%20years%20of%20coding%20experience;"></a>
 </p>
@@ -48,19 +46,16 @@ I am a software developer currently working at <img height="16" width="16" src='
 
 
 
-## 📈 Github Stats 
-
-![Prasad's Stats](https://github-readme-stats.vercel.app/api?username=PrasadBhat4&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=dark)
-![Prasad's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadBhat4&layout=compact&hide=php&hide_border=true&theme=dark)
+### Quick stats about me
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Prasad's github stats](https://github-readme-stats.vercel.app/api?username=PrasadBhat4&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Prasad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadBhat4&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 ## 📊 Github graph
 
 <a href="https://github.com/PrasadBhat4/"><img alt="Prasad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PrasadBhat4&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-&nbsp;
-&nbsp;
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b>
 
 <!--
 **PrasadBhat4/PrasadBhat4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
