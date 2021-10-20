@@ -49,7 +49,7 @@ I am a javascript full stack developer and a cloud technology enthusiast current
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Prasad's github stats](https://github-readme-stats.vercel.app/api?username=PrasadBhat4&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Prasad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadBhat4&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Prasad's github stats](https://github-readme-stats.vercel.app/api?username=Prasadbhat4&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=dark) | ![Prasad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadBhat4&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 ## 📊 Github graph
 
